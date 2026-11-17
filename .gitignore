@@ -1,0 +1,9 @@
+# Files saved while working through the notebooks (the backup copies live in data/backups/)
+data/ppmi_hack_cleaned_part1.csv
+data/ppmi_hack_imputed_part2.csv
+
+.DS_Store
+.ipynb_checkpoints/
+
+# Office lock files
+~$*
