@@ -1,10 +1,10 @@
 # Hackathon 2026 Setup Instructions
 
-### Please complete this setup before the hackathon day
+### Setup
 
 The hackathon uses the same **`m3` environment** as the Module 3 tutorials, so there is nothing new to install.
 
-1. If you haven't set up the `m3` environment yet, follow the **Prerequisites and Setup** section of the Module 3 repository: [https://github.com/Sandoretal/module3_2026](https://github.com/Sandoretal/module3_2026)
+1. **Before the hackathon day:** if you haven't set up the `m3` environment yet, follow the **Prerequisites and Setup** section of the Module 3 repository: [https://github.com/Sandoretal/module3_2026](https://github.com/Sandoretal/module3_2026)
 
 2. Download this entire GitHub repository ([https://github.com/Sandoretal/hackathon_2026](https://github.com/Sandoretal/hackathon_2026)) as ZIP, extract it, and place the extracted folder (`hackathon_2026-main`) on the Desktop
 
