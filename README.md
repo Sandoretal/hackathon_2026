@@ -19,10 +19,10 @@ The hackathon uses the same **`m3` environment** as the Module 3 tutorials, so t
 | Part | Notebook | Start from |
 |---|---|---|
 | Part 1 | `Part1.ipynb` | `data/ppmi_hack_dirty.csv` |
-| Part 2 | `Part2.ipynb` | your cleaned data from Part 1, **or** `data/backups/ppmi_hack_cleaned_part1.csv` |
-| Part 3 | `Part3.ipynb` | your imputed data from Part 2, **or** `data/backups/ppmi_hack_imputed_part2.csv`; plus `data/clinics_lookup_dirty.csv` for the Final Challenge |
+| Part 2 | `Part2.ipynb` | `data/backups/ppmi_hack_cleaned_part1.csv` (question 1), then `data/backups/ppmi_hack_imputed_part2.csv` (questions 2–4) |
+| Part 3 | `Part3.ipynb` | `data/backups/ppmi_hack_imputed_part2.csv`, plus `data/clinics_lookup_dirty.csv` for the Final Challenge |
 
-Each part builds on the previous one, but **you don't need to finish a part to attempt the next one**: the intermediate files in `data/backups/` let you start Part 2 or Part 3 at any time. Save your own outputs to `data/ppmi_hack_cleaned_part1.csv` (end of Part 1) and `data/ppmi_hack_imputed_part2.csv` (end of Part 2).
+**Parts 2 and 3 start from the backup files in `data/backups/`**, so every group works from the same data and you can attempt the parts in any order. Still save your own outputs when the notebooks ask: `data/ppmi_hack_cleaned_part1.csv` (end of Part 1) and `data/ppmi_hack_imputed_part2.csv` (end of Part 2).
 
 Write your code and answers in the empty cells under each question.
 
